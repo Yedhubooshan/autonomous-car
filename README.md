@@ -10,6 +10,7 @@
 - DC Motor (3V - 12V) - Qty: 2
 - Power Supply 9V - 12V(*) - Qty: 1
 - Switch (on/off)
+- Chasis
 
 ## Software Required:
 - Arduino IDE (https://www.arduino.cc/en/main/software)
