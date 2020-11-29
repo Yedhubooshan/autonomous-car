@@ -12,6 +12,10 @@
 - Switch (on/off)
 - Chasis
 
+**Circuit Diagram**
+
+<img src="https://github.com/Yedhubooshan/autonomous-car/blob/master/Simulation%20diagram.JPG?raw=true" alt = "circuit diagram" />
+
 ## Software Required:
 - Arduino IDE (https://www.arduino.cc/en/main/software)
 - Bluetooth Car Controller App (https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller&hl=en_IN)
