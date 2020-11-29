@@ -12,7 +12,7 @@
 - Switch (on/off)
 - Chasis
 
-**Circuit Diagram**
+## Circuit Diagram :
 
 <img src="https://github.com/Yedhubooshan/autonomous-car/blob/master/Simulation%20diagram.JPG?raw=true" alt = "circuit diagram" />
 
