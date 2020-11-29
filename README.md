@@ -1,6 +1,6 @@
 # RC-and-Auto-Directing-Robo-Car
 
-**[Home](yedhubooshan.github.io)**
+**Go to home page: [Click here](https://yedhubooshan.github.io/)**
 
 ## Components Required:
 
@@ -16,11 +16,12 @@
 
 ## Circuit Diagram :
 
-<img src="https://github.com/Yedhubooshan/autonomous-car/blob/master/Simulation%20diagram.JPG?raw=true" alt = "circuit diagram" />
+<a href="https://github.com/Yedhubooshan/autonomous-car/blob/master/Simulation%20diagram.JPG?raw=true">![Circuit Diagram](https://github.com/Yedhubooshan/autonomous-car/blob/master/Simulation%20diagram.JPG?raw=true)</a>
 
-## Software Required:
-- Arduino IDE (https://www.arduino.cc/en/main/software)
-- Bluetooth Car Controller App (https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller&hl=en_IN)
+
+## Software Required: (click to redirect)
+- [Arduino IDE](https://www.arduino.cc/en/main/software)
+- [Bluetooth Car Controller App](https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller&hl=en_IN)
 
 ### Note:
 1* Arduino UNO with cable to upload the code.
